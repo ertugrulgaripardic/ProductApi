@@ -1,3 +1,2 @@
-Product API can do,
-- Push & Pull Products
+Push & Pull Products
 This API gets product to e-commerce database from sql database.
